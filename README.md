@@ -2,4 +2,4 @@
 Just another repository
 
 
-Hello here,I love to challenge myself. Let's see how this turns out!
+So it turns out I love Hillsong so much. This is a repository to dig into their lyrics and find trends.
