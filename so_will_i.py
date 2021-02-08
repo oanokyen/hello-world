@@ -1,4 +1,4 @@
-# Code by PY4E
+
 # Just respond with directory for .txt file
 
 name = input('Enter file:')
