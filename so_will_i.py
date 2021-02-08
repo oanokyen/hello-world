@@ -5,7 +5,7 @@ name = input('Enter file:')
 handle = open(name, 'r')
 text = handle.read()
 words = text.split()
-counts = dict()
+counts = {}
 for word in words: 
     counts[word] = counts.get(word,0) + 1
 
